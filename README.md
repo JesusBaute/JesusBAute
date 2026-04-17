@@ -30,8 +30,4 @@ Empecé en desarrollo de videojuegos y terminé haciendo backends con autenticac
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusBaute&show_icons=true&theme=tokyonight&hide_border=true&hide=stars)
-
----
-
 `jesusd.bautea@gmail.com`
